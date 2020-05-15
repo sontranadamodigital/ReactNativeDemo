@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>880064665252-qb7nphusbfo279t934v7rsev2hcmno6i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.880064665252-qb7nphusbfo279t934v7rsev2hcmno6i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBlECTi-00qPa-_giT2_mnSjJsCjtGzvEk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>880064665252</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.snapad</string>
+	<key>PROJECT_ID</key>
+	<string>snapad-31821</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapad-31821.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:880064665252:ios:9612111a8478b00245b831</string>
+	<key>DATABASE_URL</key>
+	<string>https://snapad-31821.firebaseio.com</string>
+</dict>
+</plist>

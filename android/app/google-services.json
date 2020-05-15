@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "880064665252",
+    "firebase_url": "https://snapad-31821.firebaseio.com",
+    "project_id": "snapad-31821",
+    "storage_bucket": "snapad-31821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880064665252:android:e839869cc119b69145b831",
+        "android_client_info": {
+          "package_name": "com.snapad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880064665252-dubpndlqes6kk8m9mvbrr9i4jnbhfq1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gnX87BUenzf6G5rWhtLXEMlfKUsL0kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880064665252-dubpndlqes6kk8m9mvbrr9i4jnbhfq1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880064665252-qb7nphusbfo279t934v7rsev2hcmno6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.snapad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
